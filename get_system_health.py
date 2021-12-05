@@ -1,4 +1,9 @@
 # -- coding: utf-8 --
+#
+# To-Do: Temperaturen und Lüftergeschwindigkeit auslesen
+#
+#
+#
 
 import psutil
 import json
@@ -30,10 +35,10 @@ disk_used_percent = raw_disk.percent
 
 message = {
   "general": {
-  "hostname": hostname,
-  "system": system_name,
-  "machine": machine_name,
-  "processor": processor_type
+   "hostname": hostname,
+   "system": system_name,
+   "machine": machine_name,
+   "processor": processor_type
   },
   "cpu": {
     "utilization": cpu_utilization
@@ -55,8 +60,5 @@ message = {
 system_health = json.dumps(message)
 mqtt_topic = "system_health/" + hostname
 publish.single(mqtt_topic, system_health, hostname="10.30.0.3")
-
-
-
 
 #print(test)
