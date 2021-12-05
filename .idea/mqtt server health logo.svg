@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Generiert durch Microsoft Visio, SVG Export mqtt server health logo.svg Page-1 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
-		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="14.6812in" height="6.18187in"
-		viewBox="0 0 1057.05 445.095" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="14.6812in" height="6.12435in"
+		viewBox="0 0 1057.05 440.953" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
 	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
 		<v:userDefs>
 			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
@@ -12,349 +12,325 @@
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.49999}
-		.st2 {fill:none}
-		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:4.49999}
-		.st4 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:0.999999}
-		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
-		.st6 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:0.844137}
-		.st7 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:0.841812}
-		.st8 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:0.999999}
-		.st9 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.749999}
-		.st10 {fill:#000000;font-family:Bread Coffee Demo;font-size:6.66664em}
-		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+		.st1 {fill:#3f3f3f;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st3 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:0.844138}
+		.st4 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:0.841813}
+		.st5 {fill:#3f3f3f;stroke:none;stroke-linecap:butt;stroke-width:1}
+		.st6 {fill:#ffc000;stroke:none;stroke-linecap:butt;stroke-width:1}
+		.st7 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st8 {fill:#3f3f3f;font-family:Bread Coffee Demo;font-size:6.66666em}
+		.st9 {fill:#000000;stroke:none;stroke-linecap:butt;stroke-width:1}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
 
 	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
 		<title>Zeichenblatt-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
-				v:shadowOffsetY="-9"/>
-		<g id="group70-1" transform="translate(20.25,-37.7078)" v:mID="70" v:groupContext="group">
-			<title>Tabelle.70</title>
-			<g id="group3-2" v:mID="3" v:groupContext="group">
-				<title>Tabelle.495</title>
-				<g id="shape4-3" v:mID="4" v:groupContext="shape" transform="translate(0.000128013,-5.99833)">
-					<title>Tabelle.1</title>
-					<rect x="0" y="260.843" width="141.732" height="184.252" class="st1"/>
-				</g>
-				<g id="shape5-5" v:mID="5" v:groupContext="shape" transform="translate(314.729,124.366) rotate(45)">
-					<title>Tabelle.2</title>
-					<path d="M0 445.09 L8.48 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L8.48 445.09" class="st3"/>
-				</g>
-				<g id="shape6-8" v:mID="6" v:groupContext="shape" transform="translate(5.99844,-1.78154E-05)">
-					<title>Tabelle.3</title>
-					<path d="M0 445.09 L18.51 445.09 L24.51 439.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L18.51 445.09 L24.51 439.09" class="st3"/>
-				</g>
-				<g id="shape7-11" v:mID="7" v:groupContext="shape" transform="translate(425.955,124.366) rotate(45)">
-					<title>Tabelle.4</title>
-					<path d="M0 445.09 L8.48 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L8.48 445.09" class="st3"/>
-				</g>
-				<g id="shape8-14" v:mID="8" v:groupContext="shape" transform="translate(117.224,-5.68434E-14)">
-					<title>Tabelle.5</title>
-					<path d="M0 445.09 L18.51 445.09 L24.51 439.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L18.51 445.09 L24.51 439.09" class="st3"/>
-				</g>
-				<g id="shape9-17" v:mID="9" v:groupContext="shape" transform="translate(85.0394,-108.046)">
-					<title>Tabelle.7</title>
-					<rect x="0" y="371.394" width="48.1889" height="73.7007" class="st1"/>
-				</g>
-				<g id="shape10-19" v:mID="10" v:groupContext="shape" transform="translate(90.7087,-171.825)">
-					<title>Tabelle.8</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape11-22" v:mID="11" v:groupContext="shape" transform="translate(113.386,-171.825)">
-					<title>Tabelle.11</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape12-25" v:mID="12" v:groupContext="shape" transform="translate(90.7087,-159.069)">
-					<title>Tabelle.12</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape13-28" v:mID="13" v:groupContext="shape" transform="translate(90.7087,-146.313)">
-					<title>Tabelle.13</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape14-31" v:mID="14" v:groupContext="shape" transform="translate(113.386,-159.069)">
-					<title>Tabelle.14</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape15-34" v:mID="15" v:groupContext="shape" transform="translate(113.386,-146.313)">
-					<title>Tabelle.15</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape16-37" v:mID="16" v:groupContext="shape" transform="translate(90.7087,-133.557)">
-					<title>Tabelle.16</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape17-40" v:mID="17" v:groupContext="shape" transform="translate(113.386,-133.557)">
-					<title>Tabelle.17</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape18-43" v:mID="18" v:groupContext="shape" transform="translate(90.7087,-120.801)">
-					<title>Tabelle.18</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape19-46" v:mID="19" v:groupContext="shape" transform="translate(113.386,-120.801)">
-					<title>Tabelle.19</title>
-					<path d="M0 445.09 L14.17 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L14.17 445.09" class="st3"/>
-				</g>
-				<g id="shape20-49" v:mID="20" v:groupContext="shape" transform="translate(85.0394,-88.2029)">
-					<title>Tabelle.20</title>
-					<path d="M0 445.09 L48.19 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L48.19 445.09" class="st3"/>
-				</g>
-				<g id="shape21-52" v:mID="21" v:groupContext="shape" transform="translate(-360.055,368.23) rotate(-90)">
-					<title>Tabelle.21</title>
-					<path d="M0 445.09 L11.34 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L11.34 445.09" class="st3"/>
-				</g>
-				<g id="shape22-55" v:mID="22" v:groupContext="shape" transform="translate(85.0394,-68.3604)">
-					<title>Tabelle.22</title>
-					<path d="M0 445.09 L48.19 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L48.19 445.09" class="st3"/>
-				</g>
-				<g id="shape23-58" v:mID="23" v:groupContext="shape" transform="translate(-360.055,388.073) rotate(-90)">
-					<title>Tabelle.23</title>
-					<path d="M0 445.09 L11.34 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L11.34 445.09" class="st3"/>
-				</g>
-				<g id="shape24-61" v:mID="24" v:groupContext="shape" transform="translate(85.0394,-48.5179)">
-					<title>Tabelle.25</title>
-					<path d="M0 445.09 L48.19 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L48.19 445.09" class="st3"/>
-				</g>
-				<g id="shape25-64" v:mID="25" v:groupContext="shape" transform="translate(-360.055,407.915) rotate(-90)">
-					<title>Tabelle.26</title>
-					<path d="M0 445.09 L11.34 445.09 L0 445.09 Z" class="st2"/>
-					<path d="M0 445.09 L11.34 445.09" class="st3"/>
-				</g>
-				<g id="shape26-67" v:mID="26" v:groupContext="shape" transform="translate(8.50405,-108.046)">
-					<title>Tabelle.28</title>
-					<rect x="0" y="374.229" width="25.5118" height="70.866" class="st1"/>
-				</g>
-				<g id="shape27-69" v:mID="27" v:groupContext="shape" transform="translate(16.7245,-113.927)">
-					<title>Tabelle.52</title>
-					<ellipse cx="4.03936" cy="441.055" rx="4.03936" ry="4.03936" class="st1"/>
-				</g>
-				<g id="shape28-71" v:mID="28" v:groupContext="shape" transform="translate(45.3544,-108.046)">
-					<title>Tabelle.53</title>
-					<rect x="0" y="374.229" width="25.5118" height="70.866" class="st1"/>
-				</g>
-				<g id="shape29-73" v:mID="29" v:groupContext="shape" transform="translate(53.5749,-114.14)">
-					<title>Tabelle.54</title>
-					<ellipse cx="4.03936" cy="441.055" rx="4.03936" ry="4.03936" class="st1"/>
-				</g>
-				<g id="shape30-75" v:mID="30" v:groupContext="shape" transform="translate(14.1214,-37.1793)">
-					<title>Tabelle.125</title>
-					<path d="M4.76 430.27 C4.79 430.32 4.83 430.36 4.86 430.41 C11.71 441.44 28.05 445.09 38.98 437.58 C39.11 437.53
-								 39.22 437.45 39.33 437.37 L39.44 437.3 L39.49 437.25 C44.89 433.57 48.62 427.91 49.87 421.5 C49.87
-								 421.46 49.89 421.42 49.89 421.38 C51.08 415.14 49.81 408.68 46.36 403.35 C46.3 403.2 46.22 403.07
-								 46.11 402.94 L46.08 402.89 C46.06 402.86 46.04 402.83 46.01 402.81 C42.33 397.42 36.68 393.69 30.28
-								 392.44 C30.23 392.44 30.19 392.42 30.14 392.42 C23.91 391.23 17.45 392.5 12.12 395.95 C11.97 396.01
-								 11.83 396.09 11.71 396.2 L11.67 396.22 C11.64 396.25 11.6 396.27 11.57 396.29 C6.18 399.97 2.46
-								 405.63 1.2 412.04 C1.2 412.08 1.19 412.12 1.19 412.16 C0 418.4 1.27 424.86 4.72 430.2 C4.74 430.22
-								 4.74 430.25 4.76 430.27 ZM19.43 435.43 C16.19 434.36 13.28 432.46 10.99 429.92 L19.84 425.26 C20.58
-								 425.75 21.38 426.14 22.22 426.43 L19.43 435.43 ZM20.48 416.78 C20.48 414.97 21.44 413.29 23.01 412.38
-								 C24.58 411.48 26.52 411.48 28.09 412.38 C29.65 413.29 30.62 414.97 30.62 416.78 C30.62 418.59 29.65
-								 420.26 28.08 421.17 C26.51 422.07 24.58 422.07 23.01 421.16 C21.44 420.26 20.48 418.58 20.48 416.77
-								 L20.48 416.78 ZM25.55 436.4 C25.2 436.4 24.88 436.37 24.54 436.35 L27.51 426.8 C28.38 426.62 29.23
-								 426.33 30.03 425.94 L34.41 434.26 C31.67 435.67 28.63 436.4 25.55 436.4 ZM38.68 431.32 L34.03 422.47
-								 C34.52 421.73 34.92 420.93 35.21 420.09 L44.2 422.87 L44.2 422.88 C43.13 426.12 41.23 429.04 38.68
-								 431.32 ZM43.04 407.91 C44.61 410.95 45.33 414.36 45.13 417.77 L35.57 414.81 C35.4 413.93 35.11 413.09
-								 34.71 412.29 L43.04 407.91 ZM31.65 398.12 C34.9 399.19 37.81 401.09 40.1 403.63 L31.26 408.29 C30.52
-								 407.79 29.71 407.39 28.87 407.11 L31.65 398.12 ZM25.54 397.13 C25.88 397.13 26.21 397.16 26.54 397.18
-								 L23.58 406.73 C22.7 406.91 21.86 407.2 21.06 407.59 L16.68 399.26 C19.43 397.86 22.46 397.13 25.54
-								 397.13 ZM12.4 402.21 L17.06 411.06 C16.56 411.8 16.16 412.6 15.88 413.44 L6.89 410.65 C7.96 407.41
-								 9.86 404.5 12.41 402.21 L12.4 402.21 ZM5.96 415.77 L15.51 418.73 C15.68 419.6 15.97 420.45 16.37
-								 421.25 L8.05 425.63 C6.48 422.59 5.76 419.18 5.96 415.77 Z" class="st4"/>
-				</g>
-				<g id="shape31-77" v:mID="31" v:groupContext="shape" transform="translate(17.008,-11.1005)">
-					<title>Tabelle.126</title>
-					<rect x="0" y="438.858" width="13.3228" height="6.23621" class="st5"/>
-				</g>
-				<g id="shape32-79" v:mID="32" v:groupContext="shape" transform="translate(35.4332,-11.1005)">
-					<title>Tabelle.127</title>
-					<rect x="0" y="438.858" width="13.3228" height="6.23621" class="st5"/>
-				</g>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="group495-1" transform="translate(21.717,-28.3465)" v:mID="495" v:groupContext="group">
+			<title>Tabelle.495</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(7.99361E-15,-5.99834)">
+				<title>Tabelle.1</title>
+				<rect x="0" y="256.701" width="141.732" height="184.252" class="st1"/>
 			</g>
-			<g id="group33-81" transform="translate(183.545,-59.9994) rotate(20.6)" v:mID="33" v:groupContext="group">
-				<title>Tabelle.496</title>
-				<g id="shape34-82" v:mID="34" v:groupContext="shape" transform="translate(222.763,22.6661) rotate(21.39)">
-					<title>Tabelle.457</title>
-					<ellipse cx="10.9569" cy="434.163" rx="10.9569" ry="10.9316" class="st6"/>
-				</g>
-				<g id="shape35-84" v:mID="35" v:groupContext="shape" transform="translate(255.001,19.7364) rotate(21.39)">
-					<title>Tabelle.458</title>
-					<ellipse cx="12.2569" cy="432.863" rx="12.2569" ry="12.2316" class="st6"/>
-				</g>
-				<g id="shape36-86" v:mID="36" v:groupContext="shape" transform="translate(295.674,5.39131) rotate(21.39)">
-					<title>Tabelle.459</title>
-					<ellipse cx="14.8737" cy="430.263" rx="14.8737" ry="14.8315" class="st6"/>
-				</g>
-				<g id="shape37-88" v:mID="37" v:groupContext="shape" transform="translate(329.339,-24.9824) rotate(21.39)">
-					<title>Tabelle.460</title>
-					<ellipse cx="16.1737" cy="428.963" rx="16.1737" ry="16.1315" class="st6"/>
-				</g>
-				<g id="shape38-90" v:mID="38" v:groupContext="shape" transform="translate(325.778,-77.1249) rotate(21.39)">
-					<title>Tabelle.461</title>
-					<ellipse cx="18.7821" cy="426.355" rx="18.7821" ry="18.7399" class="st6"/>
-				</g>
-				<g id="shape39-92" v:mID="39" v:groupContext="shape" transform="translate(328.274,-268.818) rotate(21.39)">
-					<title>Tabelle.462</title>
-					<ellipse cx="11.8517" cy="433.277" rx="11.8517" ry="11.8179" class="st6"/>
-				</g>
-				<g id="shape40-94" v:mID="40" v:groupContext="shape" transform="translate(296.417,-230.623) rotate(21.39)">
-					<title>Tabelle.463</title>
-					<ellipse cx="14.8906" cy="430.246" rx="14.8906" ry="14.8484" class="st6"/>
-				</g>
-				<g id="shape41-96" v:mID="41" v:groupContext="shape" transform="translate(287.204,-187.662) rotate(21.39)">
-					<title>Tabelle.464</title>
-					<ellipse cx="16.41" cy="428.727" rx="16.41" ry="16.3678" class="st6"/>
-				</g>
-				<g id="shape42-98" v:mID="42" v:groupContext="shape" transform="translate(301.938,-136.301) rotate(21.39)">
-					<title>Tabelle.465</title>
-					<ellipse cx="19.4489" cy="425.696" rx="19.4489" ry="19.3983" class="st6"/>
-				</g>
-				<g id="shape43-100" v:mID="43" v:groupContext="shape" transform="translate(184.251,-2.73603) rotate(21.39)">
-					<title>Tabelle.466</title>
-					<ellipse cx="10.1381" cy="434.973" rx="10.1381" ry="10.1212" class="st6"/>
-				</g>
-				<g id="shape44-102" v:mID="44" v:groupContext="shape" transform="translate(218.459,-5.8823) rotate(21.39)">
-					<title>Tabelle.467</title>
-					<ellipse cx="11.3452" cy="433.775" rx="11.3452" ry="11.3199" class="st6"/>
-				</g>
-				<g id="shape45-104" v:mID="45" v:groupContext="shape" transform="translate(251.487,-19.6471) rotate(21.39)">
-					<title>Tabelle.468</title>
-					<ellipse cx="13.7679" cy="431.36" rx="13.7679" ry="13.7341" class="st6"/>
-				</g>
-				<g id="shape46-106" v:mID="46" v:groupContext="shape" transform="translate(281.569,-50.6316) rotate(21.39)">
-					<title>Tabelle.469</title>
-					<ellipse cx="14.975" cy="430.162" rx="14.975" ry="14.9328" class="st6"/>
-				</g>
-				<g id="shape47-108" v:mID="47" v:groupContext="shape" transform="translate(272.121,-98.1557) rotate(21.39)">
-					<title>Tabelle.470</title>
-					<ellipse cx="17.3892" cy="427.748" rx="17.3892" ry="17.347" class="st6"/>
-				</g>
-				<g id="shape48-110" v:mID="48" v:groupContext="shape" transform="translate(283.356,-264.03) rotate(21.39)">
-					<title>Tabelle.471</title>
-					<ellipse cx="10.5939" cy="434.526" rx="10.5939" ry="10.5686" class="st6"/>
-				</g>
-				<g id="shape49-112" v:mID="49" v:groupContext="shape" transform="translate(247.365,-239.504) rotate(21.2914)">
-					<title>Tabelle.472</title>
-					<ellipse cx="13.2754" cy="431.853" rx="13.2754" ry="13.2417" class="st7"/>
-				</g>
-				<g id="shape50-114" v:mID="50" v:groupContext="shape" transform="translate(244.829,-194.214) rotate(21.39)">
-					<title>Tabelle.473</title>
-					<ellipse cx="14.6711" cy="430.457" rx="14.6711" ry="14.6374" class="st6"/>
-				</g>
-				<g id="shape51-116" v:mID="51" v:groupContext="shape" transform="translate(254.651,-146.541) rotate(21.39)">
-					<title>Tabelle.474</title>
-					<ellipse cx="17.3892" cy="427.748" rx="17.3892" ry="17.347" class="st6"/>
-				</g>
-				<g id="shape52-118" v:mID="52" v:groupContext="shape" transform="translate(162.332,-31.7264) rotate(21.39)">
-					<title>Tabelle.475</title>
-					<ellipse cx="8.29787" cy="436.814" rx="8.29787" ry="8.28098" class="st6"/>
-				</g>
-				<g id="shape53-120" v:mID="53" v:groupContext="shape" transform="translate(194.284,-30.5227) rotate(21.39)">
-					<title>Tabelle.476</title>
-					<ellipse cx="9.29395" cy="435.826" rx="9.29395" ry="9.26862" class="st6"/>
-				</g>
-				<g id="shape54-122" v:mID="54" v:groupContext="shape" transform="translate(218.23,-43.6532) rotate(21.39)">
-					<title>Tabelle.477</title>
-					<ellipse cx="11.2692" cy="433.851" rx="11.2692" ry="11.2439" class="st6"/>
-				</g>
-				<g id="shape55-124" v:mID="55" v:groupContext="shape" transform="translate(242.695,-70.9275) rotate(21.2914)">
-					<title>Tabelle.478</title>
-					<ellipse cx="12.2231" cy="432.905" rx="12.2231" ry="12.1895" class="st7"/>
-				</g>
-				<g id="shape56-126" v:mID="56" v:groupContext="shape" transform="translate(234.211,-108.358) rotate(21.39)">
-					<title>Tabelle.479</title>
-					<ellipse cx="14.2322" cy="430.896" rx="14.2322" ry="14.1984" class="st6"/>
-				</g>
-				<g id="shape57-128" v:mID="57" v:groupContext="shape" transform="translate(217.847,-218.302) rotate(21.39)">
-					<title>Tabelle.480</title>
-					<ellipse cx="10.8978" cy="434.222" rx="10.8978" ry="10.8725" class="st6"/>
-				</g>
-				<g id="shape58-130" v:mID="58" v:groupContext="shape" transform="translate(210.8,-184.076) rotate(21.39)">
-					<title>Tabelle.481</title>
-					<ellipse cx="12.0121" cy="433.116" rx="12.0121" ry="11.9783" class="st6"/>
-				</g>
-				<g id="shape59-132" v:mID="59" v:groupContext="shape" transform="translate(218.061,-145.17) rotate(21.39)">
-					<title>Tabelle.482</title>
-					<ellipse cx="14.2322" cy="430.896" rx="14.2322" ry="14.1984" class="st6"/>
-				</g>
-				<g id="shape60-134" v:mID="60" v:groupContext="shape" transform="translate(335.748,-221.031) rotate(21.39)">
-					<title>Tabelle.483</title>
-					<ellipse cx="8.55111" cy="436.569" rx="8.55111" ry="8.52578" class="st6"/>
-				</g>
+			<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(311.801,123.154) rotate(45)">
+				<title>Tabelle.2</title>
+				<path d="M0 440.95 L8.48 440.95" class="st2"/>
 			</g>
-			<g id="group61-136" transform="translate(393.508,-195.514) rotate(15)" v:mID="61" v:groupContext="group">
-				<title>Tabelle.582</title>
-				<g id="shape62-137" v:mID="62" v:groupContext="shape" transform="translate(7.99361E-13,-104.402)">
-					<title>Tabelle.537</title>
-					<path d="M54.79 445.09 C56.75 441.7 59.25 438.31 62.28 435.27 C68.35 429.21 75.49 425.28 82.99 423.49 C67.99
-								 401.9 39.62 370.49 18.02 403.51 C0 430.81 30.16 441.16 54.79 445.09 Z" class="st4"/>
-				</g>
-				<g id="shape63-139" v:mID="63" v:groupContext="shape" transform="translate(104.402,-4.54747E-13)">
-					<title>Tabelle.538</title>
-					<path d="M21.6 362.1 C19.81 369.6 15.88 376.74 9.82 382.8 C6.78 385.84 3.57 388.34 0 390.3 C3.93 414.93 14.1
-								 445.09 41.58 427.06 C74.6 405.47 43.19 377.09 21.59 362.1 L21.6 362.1 Z" class="st4"/>
-				</g>
-				<g id="shape64-141" v:mID="64" v:groupContext="shape" transform="translate(43.3679,-43.3666)">
-					<title>Tabelle.539</title>
-					<path d="M133.31 354.78 C126.71 348.18 116.54 346.4 107.97 350.32 L101.9 353.18 C100.83 351.04 99.4 349.07 97.62
-								 347.29 C95.83 345.5 93.87 344.26 91.73 343.01 L94.59 336.94 C98.69 328.37 96.91 318.2 90.12 311.6
-								 C87.63 309.1 83.7 309.1 81.38 311.6 C79.06 314.09 78.88 318.02 81.38 320.34 C84.41 323.38 85.13
-								 327.84 83.34 331.59 L79.42 339.97 C73.35 340.15 67.46 342.47 62.82 347.11 C56.39 353.54 54.43 362.64
-								 56.57 371.03 C46.4 368.35 34.09 371.56 25.16 380.48 C19.99 385.66 16.77 391.73 15.53 398.15 C10.35
-								 398.69 5.18 400.83 0 404.4 L40.69 445.09 C44.26 439.91 46.4 434.92 46.94 429.56 C53.18 428.31 59.43
-								 425.1 64.61 419.93 C73.53 411 76.74 398.69 73.89 388.52 C82.1 390.84 91.2 388.7 97.8 382.27 C102.44
-								 377.63 104.76 371.74 104.94 365.67 L113.33 361.75 C117.07 359.96 121.71 360.68 124.57 363.71 C127.07
-								 366.21 130.99 366.21 133.32 363.71 C135.63 361.21 135.63 357.28 133.31 354.78 Z" class="st4"/>
-				</g>
-				<g id="shape65-143" v:mID="65" v:groupContext="shape" transform="translate(26.4121,-26.4127)">
-					<title>Tabelle.540</title>
-					<path d="M3.39 399.04 C2.32 400.12 1.07 401.54 0 402.79 L42.3 445.09 C43.55 444.02 44.8 442.95 46.04 441.7 C48.19
-								 439.56 50.33 437.24 52.29 435.1 L9.99 392.98 C7.67 394.76 5.53 396.9 3.39 399.05 L3.39 399.04 Z"
-							class="st8"/>
-				</g>
-				<g id="shape66-145" v:mID="66" v:groupContext="shape" transform="translate(14.6336,-14.4561)">
-					<title>Tabelle.541</title>
-					<path d="M0 411.54 L33.55 445.09 C38.19 443.3 42.65 440.99 46.76 438.49 L6.6 398.33 C4.11 402.44 1.78 406.9 0
-								 411.54 Z" class="st8"/>
-				</g>
-				<g id="shape67-147" v:mID="67" v:groupContext="shape" transform="translate(7.85188,-7.85251)">
-					<title>Tabelle.542</title>
-					<path d="M4.28 440.81 C8.57 445.09 19.1 444.73 30.87 441.52 L3.57 414.21 C0.18 425.99 0 436.7 4.28 440.81 Z"
-							class="st4"/>
-				</g>
+			<g id="shape3-7" v:mID="3" v:groupContext="shape" transform="translate(5.99832,-1.7967E-05)">
+				<title>Tabelle.3</title>
+				<path d="M0 440.95 L18.51 440.95 L24.51 434.95" class="st2"/>
 			</g>
-			<g id="shape68-149" v:mID="68" v:groupContext="shape" transform="translate(466.291,-249.539) rotate(21.39)">
-				<title>Tabelle.583</title>
-				<ellipse cx="8.29787" cy="436.814" rx="8.29787" ry="8.28098" class="st6"/>
+			<g id="shape4-10" v:mID="4" v:groupContext="shape" transform="translate(423.027,123.154) rotate(45)">
+				<title>Tabelle.4</title>
+				<path d="M0 440.95 L8.48 440.95" class="st2"/>
 			</g>
-			<g id="shape69-151" v:mID="69" v:groupContext="shape" transform="translate(193.543,-3.2285)">
-				<title>Tabelle.584</title>
-				<desc>MQTT Server Health</desc>
-				<v:userDefs/>
-				<v:textBlock v:margins="rect(3.99999,3.99999,3.99999,3.99999)" v:tabSpace="42.5196"/>
-				<v:textRect cx="412.44" cy="399.937" width="824.89" height="90.3154"/>
-				<rect x="0" y="354.779" width="824.881" height="90.3154" class="st9"/>
-				<text x="28.59" y="423.94" class="st10" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>MQTT Server Health</text>			</g>
+			<g id="shape5-13" v:mID="5" v:groupContext="shape" transform="translate(117.224,-1.51548E-07)">
+				<title>Tabelle.5</title>
+				<path d="M0 440.95 L18.51 440.95 L24.51 434.95" class="st2"/>
+			</g>
+			<g id="shape7-16" v:mID="7" v:groupContext="shape" transform="translate(85.0394,-108.046)">
+				<title>Tabelle.7</title>
+				<rect x="0" y="367.252" width="48.189" height="73.7008" class="st1"/>
+			</g>
+			<g id="shape8-18" v:mID="8" v:groupContext="shape" transform="translate(90.7087,-171.825)">
+				<title>Tabelle.8</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape11-21" v:mID="11" v:groupContext="shape" transform="translate(113.386,-171.825)">
+				<title>Tabelle.11</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape12-24" v:mID="12" v:groupContext="shape" transform="translate(90.7087,-159.069)">
+				<title>Tabelle.12</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape13-27" v:mID="13" v:groupContext="shape" transform="translate(90.7087,-146.313)">
+				<title>Tabelle.13</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape14-30" v:mID="14" v:groupContext="shape" transform="translate(113.386,-159.069)">
+				<title>Tabelle.14</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape15-33" v:mID="15" v:groupContext="shape" transform="translate(113.386,-146.313)">
+				<title>Tabelle.15</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape16-36" v:mID="16" v:groupContext="shape" transform="translate(90.7087,-133.557)">
+				<title>Tabelle.16</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape17-39" v:mID="17" v:groupContext="shape" transform="translate(113.386,-133.557)">
+				<title>Tabelle.17</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape18-42" v:mID="18" v:groupContext="shape" transform="translate(90.7087,-120.801)">
+				<title>Tabelle.18</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape19-45" v:mID="19" v:groupContext="shape" transform="translate(113.386,-120.801)">
+				<title>Tabelle.19</title>
+				<path d="M0 440.95 L14.17 440.95" class="st2"/>
+			</g>
+			<g id="shape20-48" v:mID="20" v:groupContext="shape" transform="translate(85.0394,-88.203)">
+				<title>Tabelle.20</title>
+				<path d="M0 440.95 L48.19 440.95" class="st2"/>
+			</g>
+			<g id="shape21-51" v:mID="21" v:groupContext="shape" transform="translate(-355.914,364.089) rotate(-90)">
+				<title>Tabelle.21</title>
+				<path d="M0 440.95 L11.34 440.95" class="st2"/>
+			</g>
+			<g id="shape22-54" v:mID="22" v:groupContext="shape" transform="translate(85.0394,-68.3605)">
+				<title>Tabelle.22</title>
+				<path d="M0 440.95 L48.19 440.95" class="st2"/>
+			</g>
+			<g id="shape23-57" v:mID="23" v:groupContext="shape" transform="translate(-355.914,383.931) rotate(-90)">
+				<title>Tabelle.23</title>
+				<path d="M0 440.95 L11.34 440.95" class="st2"/>
+			</g>
+			<g id="shape25-60" v:mID="25" v:groupContext="shape" transform="translate(85.0394,-48.518)">
+				<title>Tabelle.25</title>
+				<path d="M0 440.95 L48.19 440.95" class="st2"/>
+			</g>
+			<g id="shape26-63" v:mID="26" v:groupContext="shape" transform="translate(-355.914,403.774) rotate(-90)">
+				<title>Tabelle.26</title>
+				<path d="M0 440.95 L11.34 440.95" class="st2"/>
+			</g>
+			<g id="shape28-66" v:mID="28" v:groupContext="shape" transform="translate(8.50393,-108.046)">
+				<title>Tabelle.28</title>
+				<rect x="0" y="370.087" width="25.5118" height="70.8661" class="st1"/>
+			</g>
+			<g id="shape52-68" v:mID="52" v:groupContext="shape" transform="translate(16.7244,-113.927)">
+				<title>Tabelle.52</title>
+				<ellipse cx="4.03937" cy="436.914" rx="4.03937" ry="4.03937" class="st1"/>
+			</g>
+			<g id="shape53-70" v:mID="53" v:groupContext="shape" transform="translate(45.3543,-108.046)">
+				<title>Tabelle.53</title>
+				<rect x="0" y="370.087" width="25.5118" height="70.8661" class="st1"/>
+			</g>
+			<g id="shape54-72" v:mID="54" v:groupContext="shape" transform="translate(53.5748,-114.14)">
+				<title>Tabelle.54</title>
+				<ellipse cx="4.03937" cy="436.914" rx="4.03937" ry="4.03937" class="st1"/>
+			</g>
+			<g id="shape126-74" v:mID="126" v:groupContext="shape" transform="translate(17.0079,-11.1007)">
+				<title>Tabelle.126</title>
+				<rect x="0" y="434.717" width="13.3228" height="6.23622" class="st1"/>
+			</g>
+			<g id="shape127-76" v:mID="127" v:groupContext="shape" transform="translate(35.4331,-11.1007)">
+				<title>Tabelle.127</title>
+				<rect x="0" y="434.717" width="13.3228" height="6.23622" class="st1"/>
+			</g>
+		</g>
+		<g id="group496-78" transform="translate(207.239,-90.78) rotate(20.6)" v:mID="496" v:groupContext="group">
+			<title>Tabelle.496</title>
+			<g id="shape457-79" v:mID="457" v:groupContext="shape" transform="translate(218.802,25.6206) rotate(21.39)">
+				<title>Tabelle.457</title>
+				<ellipse cx="10.9569" cy="430.021" rx="10.9569" ry="10.9316" class="st3"/>
+			</g>
+			<g id="shape458-81" v:mID="458" v:groupContext="shape" transform="translate(251.039,22.6908) rotate(21.39)">
+				<title>Tabelle.458</title>
+				<ellipse cx="12.2569" cy="428.721" rx="12.2569" ry="12.2316" class="st3"/>
+			</g>
+			<g id="shape459-83" v:mID="459" v:groupContext="shape" transform="translate(291.713,8.34591) rotate(21.39)">
+				<title>Tabelle.459</title>
+				<ellipse cx="14.8737" cy="426.122" rx="14.8737" ry="14.8315" class="st3"/>
+			</g>
+			<g id="shape460-85" v:mID="460" v:groupContext="shape" transform="translate(325.378,-22.0279) rotate(21.39)">
+				<title>Tabelle.460</title>
+				<ellipse cx="16.1737" cy="424.822" rx="16.1737" ry="16.1315" class="st3"/>
+			</g>
+			<g id="shape461-87" v:mID="461" v:groupContext="shape" transform="translate(321.816,-74.1709) rotate(21.39)">
+				<title>Tabelle.461</title>
+				<ellipse cx="18.7821" cy="422.213" rx="18.7821" ry="18.7399" class="st3"/>
+			</g>
+			<g id="shape462-89" v:mID="462" v:groupContext="shape" transform="translate(324.313,-265.864) rotate(21.39)">
+				<title>Tabelle.462</title>
+				<ellipse cx="11.8517" cy="429.135" rx="11.8517" ry="11.8179" class="st3"/>
+			</g>
+			<g id="shape463-91" v:mID="463" v:groupContext="shape" transform="translate(292.455,-227.669) rotate(21.39)">
+				<title>Tabelle.463</title>
+				<ellipse cx="14.8906" cy="426.105" rx="14.8906" ry="14.8484" class="st3"/>
+			</g>
+			<g id="shape464-93" v:mID="464" v:groupContext="shape" transform="translate(283.242,-184.707) rotate(21.39)">
+				<title>Tabelle.464</title>
+				<ellipse cx="16.41" cy="424.585" rx="16.41" ry="16.3678" class="st3"/>
+			</g>
+			<g id="shape465-95" v:mID="465" v:groupContext="shape" transform="translate(297.977,-133.347) rotate(21.39)">
+				<title>Tabelle.465</title>
+				<ellipse cx="19.4489" cy="421.555" rx="19.4489" ry="19.3983" class="st3"/>
+			</g>
+			<g id="shape466-97" v:mID="466" v:groupContext="shape" transform="translate(180.29,0.217879) rotate(21.39)">
+				<title>Tabelle.466</title>
+				<ellipse cx="10.1381" cy="430.832" rx="10.1381" ry="10.1212" class="st3"/>
+			</g>
+			<g id="shape467-99" v:mID="467" v:groupContext="shape" transform="translate(214.498,-2.92817) rotate(21.39)">
+				<title>Tabelle.467</title>
+				<ellipse cx="11.3452" cy="429.633" rx="11.3452" ry="11.3199" class="st3"/>
+			</g>
+			<g id="shape468-101" v:mID="468" v:groupContext="shape" transform="translate(247.525,-16.6931) rotate(21.39)">
+				<title>Tabelle.468</title>
+				<ellipse cx="13.7679" cy="427.219" rx="13.7679" ry="13.7341" class="st3"/>
+			</g>
+			<g id="shape469-103" v:mID="469" v:groupContext="shape" transform="translate(277.608,-47.6775) rotate(21.39)">
+				<title>Tabelle.469</title>
+				<ellipse cx="14.975" cy="426.02" rx="14.975" ry="14.9328" class="st3"/>
+			</g>
+			<g id="shape470-105" v:mID="470" v:groupContext="shape" transform="translate(268.16,-95.2017) rotate(21.39)">
+				<title>Tabelle.470</title>
+				<ellipse cx="17.3892" cy="423.606" rx="17.3892" ry="17.347" class="st3"/>
+			</g>
+			<g id="shape471-107" v:mID="471" v:groupContext="shape" transform="translate(279.395,-261.076) rotate(21.39)">
+				<title>Tabelle.471</title>
+				<ellipse cx="10.5939" cy="430.384" rx="10.5939" ry="10.5686" class="st3"/>
+			</g>
+			<g id="shape472-109" v:mID="472" v:groupContext="shape" transform="translate(243.41,-236.547) rotate(21.2914)">
+				<title>Tabelle.472</title>
+				<ellipse cx="13.2754" cy="427.711" rx="13.2754" ry="13.2417" class="st4"/>
+			</g>
+			<g id="shape473-111" v:mID="473" v:groupContext="shape" transform="translate(240.867,-191.26) rotate(21.39)">
+				<title>Tabelle.473</title>
+				<ellipse cx="14.6711" cy="426.316" rx="14.6711" ry="14.6374" class="st3"/>
+			</g>
+			<g id="shape474-113" v:mID="474" v:groupContext="shape" transform="translate(250.69,-143.587) rotate(21.39)">
+				<title>Tabelle.474</title>
+				<ellipse cx="17.3892" cy="423.606" rx="17.3892" ry="17.347" class="st3"/>
+			</g>
+			<g id="shape475-115" v:mID="475" v:groupContext="shape" transform="translate(158.371,-28.7723) rotate(21.39)">
+				<title>Tabelle.475</title>
+				<ellipse cx="8.29788" cy="432.672" rx="8.29788" ry="8.28099" class="st3"/>
+			</g>
+			<g id="shape476-117" v:mID="476" v:groupContext="shape" transform="translate(190.323,-27.5683) rotate(21.39)">
+				<title>Tabelle.476</title>
+				<ellipse cx="9.29396" cy="431.684" rx="9.29396" ry="9.26863" class="st3"/>
+			</g>
+			<g id="shape477-119" v:mID="477" v:groupContext="shape" transform="translate(214.268,-40.6992) rotate(21.39)">
+				<title>Tabelle.477</title>
+				<ellipse cx="11.2692" cy="429.709" rx="11.2692" ry="11.2439" class="st3"/>
+			</g>
+			<g id="shape478-121" v:mID="478" v:groupContext="shape" transform="translate(238.741,-67.9703) rotate(21.2914)">
+				<title>Tabelle.478</title>
+				<ellipse cx="12.2231" cy="428.764" rx="12.2231" ry="12.1895" class="st4"/>
+			</g>
+			<g id="shape479-123" v:mID="479" v:groupContext="shape" transform="translate(230.249,-105.404) rotate(21.39)">
+				<title>Tabelle.479</title>
+				<ellipse cx="14.2322" cy="426.755" rx="14.2322" ry="14.1984" class="st3"/>
+			</g>
+			<g id="shape480-125" v:mID="480" v:groupContext="shape" transform="translate(213.885,-215.348) rotate(21.39)">
+				<title>Tabelle.480</title>
+				<ellipse cx="10.8978" cy="430.081" rx="10.8978" ry="10.8725" class="st3"/>
+			</g>
+			<g id="shape481-127" v:mID="481" v:groupContext="shape" transform="translate(206.838,-181.121) rotate(21.39)">
+				<title>Tabelle.481</title>
+				<ellipse cx="12.0121" cy="428.975" rx="12.0121" ry="11.9783" class="st3"/>
+			</g>
+			<g id="shape482-129" v:mID="482" v:groupContext="shape" transform="translate(214.1,-142.216) rotate(21.39)">
+				<title>Tabelle.482</title>
+				<ellipse cx="14.2322" cy="426.755" rx="14.2322" ry="14.1984" class="st3"/>
+			</g>
+			<g id="shape483-131" v:mID="483" v:groupContext="shape" transform="translate(331.787,-218.076) rotate(21.39)">
+				<title>Tabelle.483</title>
+				<ellipse cx="8.55112" cy="432.427" rx="8.55112" ry="8.52579" class="st3"/>
+			</g>
+		</g>
+		<g id="group582-133" transform="translate(414.154,-224.002) rotate(15)" v:mID="582" v:groupContext="group">
+			<title>Tabelle.582</title>
+			<g id="shape537-134" v:mID="537" v:groupContext="shape" transform="translate(2.95763E-13,-104.402)">
+				<title>Tabelle.537</title>
+				<path d="M54.79 440.95 C56.75 437.56 59.25 434.17 62.28 431.14 C68.35 425.07 75.49 421.14 82.99 419.36 C67.99 397.76
+							 39.62 366.35 18.02 399.37 C0 426.68 30.16 437.03 54.79 440.95 L54.79 440.95 Z" class="st5"/>
+			</g>
+			<g id="shape538-136" v:mID="538" v:groupContext="shape" transform="translate(104.402,-3.97904E-13)">
+				<title>Tabelle.538</title>
+				<path d="M21.6 357.97 C19.81 365.46 15.88 372.6 9.82 378.67 C6.78 381.7 3.57 384.2 0 386.16 C3.93 410.79 14.1 440.95
+							 41.58 422.93 C74.6 401.33 43.19 372.96 21.59 357.97 L21.6 357.97 Z" class="st5"/>
+			</g>
+			<g id="shape539-138" v:mID="539" v:groupContext="shape" transform="translate(43.368,-43.3667)">
+				<title>Tabelle.539</title>
+				<path d="M133.31 350.65 C126.71 344.05 116.54 342.26 107.97 346.19 L101.9 349.04 C100.83 346.9 99.4 344.94 97.62
+							 343.15 C95.83 341.37 93.87 340.12 91.73 338.87 L94.59 332.8 C98.69 324.24 96.91 314.06 90.12 307.46
+							 C87.63 304.96 83.7 304.96 81.38 307.46 C79.06 309.96 78.88 313.88 81.38 316.2 C84.41 319.24 85.13 323.7
+							 83.34 327.45 L79.42 335.84 C73.35 336.01 67.46 338.33 62.82 342.97 C56.39 349.4 54.43 358.5 56.57 366.89
+							 C46.4 364.21 34.09 367.42 25.16 376.35 C19.99 381.52 16.77 387.59 15.53 394.02 C10.35 394.55 5.18 396.69
+							 0 400.26 L40.69 440.95 C44.26 435.78 46.4 430.78 46.94 425.43 C53.18 424.18 59.43 420.97 64.61 415.79
+							 C73.53 406.87 76.74 394.55 73.89 384.38 C82.1 386.7 91.2 384.56 97.8 378.13 C102.44 373.49 104.76 367.6
+							 104.94 361.54 L113.33 357.61 C117.07 355.83 121.71 356.54 124.57 359.57 C127.07 362.07 130.99 362.07
+							 133.32 359.57 C135.63 357.07 135.63 353.15 133.31 350.65 L133.31 350.65 Z" class="st5"/>
+			</g>
+			<g id="shape540-140" v:mID="540" v:groupContext="shape" transform="translate(26.4121,-26.4127)">
+				<title>Tabelle.540</title>
+				<path d="M3.39 394.91 C2.32 395.98 1.07 397.41 0 398.66 L42.3 440.95 C43.55 439.88 44.8 438.81 46.04 437.56 C48.19
+							 435.42 50.33 433.1 52.29 430.96 L9.99 388.84 C7.67 390.62 5.53 392.77 3.39 394.91 L3.39 394.91 Z"
+						class="st6"/>
+			</g>
+			<g id="shape541-142" v:mID="541" v:groupContext="shape" transform="translate(14.6336,-14.4561)">
+				<title>Tabelle.541</title>
+				<path d="M0 407.4 L33.55 440.95 C38.19 439.17 42.65 436.85 46.76 434.35 L6.6 394.2 C4.11 398.3 1.78 402.76 0 407.4
+							 L0 407.4 Z" class="st6"/>
+			</g>
+			<g id="shape542-144" v:mID="542" v:groupContext="shape" transform="translate(7.85189,-7.85252)">
+				<title>Tabelle.542</title>
+				<path d="M4.28 436.67 C8.57 440.95 19.1 440.6 30.87 437.38 L3.57 410.08 C0.18 421.86 0 432.56 4.28 436.67 L4.28 436.67
+							 Z" class="st5"/>
+			</g>
+		</g>
+		<g id="shape583-146" v:mID="583" v:groupContext="shape" transform="translate(486.499,-278.171) rotate(21.39)">
+			<title>Tabelle.583</title>
+			<ellipse cx="8.29788" cy="432.672" rx="8.29788" ry="8.28099" class="st3"/>
+		</g>
+		<g id="shape584-148" v:mID="584" v:groupContext="shape" transform="translate(215.259,-31.5743)">
+			<title>Tabelle.584</title>
+			<desc>MQTT Server Health</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="412.441" cy="395.795" width="824.89" height="90.3155"/>
+			<rect x="0" y="350.637" width="824.882" height="90.3155" class="st7"/>
+			<text x="28.59" y="419.8" class="st8" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>MQTT Server Health</text>		</g>
+		<g id="shape585-151" v:mID="585" v:groupContext="shape" transform="translate(34.8661,-62.3622)">
+			<title>Tabelle.585</title>
+			<path d="M5.11 425.03 C5.14 425.09 5.19 425.13 5.22 425.18 C12.59 437.03 30.14 440.95 41.89 432.88 L41.89 432.88 C42.02
+						 432.83 42.15 432.75 42.26 432.65 L42.37 432.58 L42.44 432.53 L42.44 432.53 C48.24 428.57 52.24 422.49 53.59
+						 415.6 C53.59 415.56 53.61 415.52 53.61 415.47 C54.88 408.77 53.52 401.83 49.82 396.1 C49.75 395.94 49.66
+						 395.8 49.55 395.67 L49.51 395.61 C49.49 395.58 49.47 395.55 49.44 395.52 C45.49 389.73 39.42 385.72 32.53
+						 384.38 C32.48 384.38 32.44 384.36 32.39 384.35 L32.39 384.35 C25.69 383.08 18.75 384.44 13.02 388.15 C12.86
+						 388.21 12.71 388.3 12.58 388.41 L12.54 388.44 C12.5 388.47 12.47 388.49 12.44 388.52 L12.44 388.52 C6.64
+						 392.48 2.64 398.55 1.29 405.44 C1.29 405.48 1.28 405.53 1.27 405.57 C0 412.28 1.36 419.22 5.07 424.95 C5.09
+						 424.98 5.1 425 5.11 425.03 L5.11 425.03 ZM20.88 430.57 L20.88 430.57 C17.39 429.42 14.27 427.38 11.81 424.65
+						 L21.31 419.65 L21.32 419.65 C22.11 420.17 22.97 420.6 23.88 420.9 L20.88 430.57 ZM22 410.53 L22 410.53 C22
+						 408.58 23.04 406.78 24.73 405.81 C26.41 404.84 28.49 404.84 30.18 405.81 C31.87 406.78 32.9 408.58 32.9
+						 410.53 C32.9 412.48 31.86 414.28 30.18 415.25 C28.49 416.22 26.41 416.22 24.72 415.24 C23.04 414.27 22 412.47
+						 22 410.52 L22 410.53 ZM27.45 431.62 C27.08 431.62 26.73 431.58 26.37 431.56 L29.56 421.3 L29.56 421.3 C30.5
+						 421.11 31.41 420.8 32.26 420.37 L36.97 429.32 C34.03 430.83 30.76 431.62 27.45 431.62 L27.45 431.62 ZM41.57
+						 426.15 L36.56 416.65 C37.1 415.85 37.52 414.99 37.83 414.09 L47.49 417.08 L47.49 417.08 C46.34 420.57 44.3
+						 423.7 41.57 426.16 L41.57 426.15 ZM46.25 401 C47.94 404.27 48.71 407.93 48.49 411.6 L38.23 408.42 C38.04
+						 407.48 37.73 406.56 37.3 405.71 L46.25 401 ZM34.01 390.48 C37.5 391.63 40.63 393.67 43.08 396.4 L33.59 401.41
+						 C32.79 400.87 31.93 400.45 31.02 400.14 L34.01 390.48 ZM27.44 389.42 C27.81 389.42 28.16 389.46 28.52 389.47
+						 L25.34 399.74 L25.34 399.74 C24.4 399.92 23.49 400.23 22.63 400.66 L17.93 391.71 C20.88 390.2 24.14 389.42
+						 27.45 389.42 L27.44 389.42 ZM13.32 394.88 L18.33 404.38 L18.33 404.38 C17.8 405.18 17.37 406.04 17.06 406.95
+						 L7.4 403.95 C8.56 400.46 10.6 397.34 13.33 394.88 L13.32 394.88 ZM6.4 409.44 L16.67 412.63 C16.85 413.57
+						 17.16 414.48 17.59 415.34 L8.65 420.05 L8.65 420.05 C6.96 416.78 6.19 413.12 6.4 409.44 L6.4 409.44 Z"
+					class="st9"/>
 		</g>
 	</g>
 </svg>
