@@ -1,13 +1,7 @@
 # -- coding: utf-8 --
-#
-# To-Do: Network, Temperaturen, Lüftergeschwindigkeit auslesen
-# ACL ANPASSEN
-# timestamp, CPU Auslastung Linux, Linux Version auslesen, Überprüfung ob MQTT Broker erreicht werden kann
-#
-
 import psutil
 import json
-# import context  # Ensures paho-mqtt is in PYTHONPATH
+# import context  # Ensures paho-mqtt is in Python path
 import paho.mqtt.publish as publish
 import platform
 import time
