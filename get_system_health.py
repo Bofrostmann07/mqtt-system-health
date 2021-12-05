@@ -62,6 +62,6 @@ system_health = json.dumps(message)
 mqtt_topic = "system_health/" + raw_general.node
 publish.single(mqtt_topic, system_health, hostname="10.30.0.3")
 
-test = psutil.swap_memory()
+test = platform.freedesktop_os_release()
 
-# print(test)
+print(test)
