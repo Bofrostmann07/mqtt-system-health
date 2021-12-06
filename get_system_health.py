@@ -1,7 +1,6 @@
 # -- coding: utf-8 --
 import psutil
 import json
-# import context  # Ensures paho-mqtt is in Python path
 import paho.mqtt.publish as publish
 import platform
 import time
@@ -54,27 +53,22 @@ message = {
         "used": disk_used,
         "used_percent": disk_used_percent
     },
-    "network": {
-    },
     "time": timestamp,
     "date": date
 }
 
 raw_network = psutil.net_if_stats()
-network = {}
-for x in raw_network:
-    for y in raw_network.values():
-        data = {
-            x: {
-                "interface": x,
-                "status": y.isup,
-                "duplex": y.duplex,
-                "speed": y.speed,
-                "mtu": y.mtu
-            }
-        }
-        network.update(data)
-message["network"].update(network)
+network_stats = {}
+for if_name, raw_if_stats in raw_network.items():
+    if_stats = {
+        "interface": if_name,
+        "status": raw_if_stats.isup,
+        "duplex": raw_if_stats.duplex,
+        "speed": raw_if_stats.speed,
+        "mtu": raw_if_stats.mtu
+    }
+    network_stats[if_name] = if_stats
+message["network"] = network_stats
 
 # print(message["network"])
 
