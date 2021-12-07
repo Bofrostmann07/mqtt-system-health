@@ -19,4 +19,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 [Unreleased]: https://github.com/Bofrostmann07/mqtt-system-health/compare/v0.1.0-beta...HEAD
-[0.0.1]: https://github.com/Bofrostmann07/mqtt-system-health/releases/tag/v0.0.1-beta
+[0.0.1]: https://github.com/Bofrostmann07/mqtt-system-health/releases/tag/v0.1.0-beta
